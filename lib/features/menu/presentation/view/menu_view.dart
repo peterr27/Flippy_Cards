@@ -67,7 +67,7 @@ class MenuView extends StatelessWidget {
               child: FittedBox(
                 fit: BoxFit.contain,
                 child: Text(
-                  '\u00a9PETER ABDO @LINKIDIN',
+                  '\u00a9PETER ABDO @LINKEDIN',
                   style: GameTextStyles.peterTextStyle,
                   textAlign: TextAlign.center,
                 ),
